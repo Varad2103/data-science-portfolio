@@ -1,0 +1,4 @@
+"0",""
+"0","jpm_data$Date <- as.Date(jpm_data[[1]], format=""%Y-%m-%d"")"
+"0",""
+"0","head(jpm_data)"

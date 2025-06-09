@@ -1,0 +1,4 @@
+"0",""
+"0","# 4th subplot - Boxplot of Volume vs Adjusted Close Price Intervals"
+"0","boxplot(jpm_data$JPM.Volume ~ price_intervals, main = ""Volume vs Adjusted Close Price Intervals"", "
+"0","        xlab = ""Price Intervals"", ylab = ""Volume"")"

@@ -1,0 +1,3 @@
+"0",""
+"0","plot(jpm_data$Date, jpm_data$JPM.Adjusted, type = ""l"", col = ""red"", "
+"0","     main = ""JPM"", xlab = ""Date"", ylab = ""Adjusted Close Price"", lwd = 2)"

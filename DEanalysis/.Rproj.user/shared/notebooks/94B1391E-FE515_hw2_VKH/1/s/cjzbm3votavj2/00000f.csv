@@ -1,0 +1,4 @@
+"0",""
+"0","hist(chi_square_random_numbers, breaks = 40, main = ""Histogram of Chi-Square Distribution (df = 10)"","
+"0","     xlab = ""Chi-Square Random Numbers"", col = ""lightblue"", border = ""black"")"
+"0",""

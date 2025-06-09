@@ -1,0 +1,4 @@
+"0",""
+"0","# 2nd subplot - Scatter plot of Close Price vs Open Price"
+"0","plot(jpm_data$JPM.Open, jpm_data$JPM.Close, xlab = ""Open Price"", ylab = ""Close Price"","
+"0","     main = ""Close Price vs Open Price"", pch = 16, col = ""blue"")"

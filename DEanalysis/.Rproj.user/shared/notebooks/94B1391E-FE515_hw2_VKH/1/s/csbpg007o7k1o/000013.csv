@@ -1,0 +1,4 @@
+"0",""
+"0","# 3rd subplot - Barplot of Adjusted Close Price Intervals"
+"0","barplot(table(price_intervals), main = ""Frequencies of Adjusted Close Price Intervals"", "
+"0","        xlab = ""Price Intervals"", ylab = ""Frequency"")"

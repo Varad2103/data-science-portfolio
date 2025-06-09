@@ -1,0 +1,6 @@
+"0","# Set up a 2 by 2 plotting frame"
+"0","par(mfrow = c(2, 2))"
+"0",""
+"0","# 1st subplot - Adjusted Close Price against Date"
+"0","plot(jpm_data$Date, jpm_data$JPM.Adjusted, type = ""l"", col = ""red"", "
+"0","     main = ""JPM"", xlab = ""Date"", ylab = ""Adjusted Close Price"", lwd = 2)"
